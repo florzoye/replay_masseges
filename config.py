@@ -10,5 +10,6 @@ SOURCE_CHANNELS = [
     'AbuzikLudit',
     'coin_listing',
     'rickler_alerts',
-    'mangoo822'
+    'mangoo822',
+    'NewListingsFeed'
 ]
