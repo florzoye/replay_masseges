@@ -11,5 +11,6 @@ SOURCE_CHANNELS = [
     'coin_listing',
     'rickler_alerts',
     'mangoo822',
-    'NewListingsFeed'
+    'NewListingsFeed',
+    'giftsbuychanel'
 ]
