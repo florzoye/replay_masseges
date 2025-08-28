@@ -15,5 +15,6 @@ SOURCE_CHANNELS = [
     'giftsbuychanel',
     'ceo_favor',
     'cryptoattack24',
-    'coindroplinks'
+    'coindroplinks',
+    'phtcrypto'
 ]
