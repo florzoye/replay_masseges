@@ -1,0 +1,18 @@
+[Unit]
+Description=Telegram Message Forwarder Bot
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/root/replay_masseges
+ExecStart=/usr/bin/python3 /root/replay_masseges/message_to_topic.py
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+
+
+[Install]
+WantedBy=multi-user.target

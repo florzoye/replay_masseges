@@ -16,5 +16,7 @@ SOURCE_CHANNELS = [
     'ceo_favor',
     'cryptoattack24',
     'coindroplinks',
-    'phtcrypto'
+    'phtcrypto',
+    'hunter_spamit',
+    'diary_toyoshik'
 ]
